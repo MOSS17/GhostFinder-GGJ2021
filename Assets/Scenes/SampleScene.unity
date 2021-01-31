@@ -617,7 +617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PrefabToPlace: {fileID: 8464261151229846219, guid: 35b109c9560440b4c80eedf57f59ec41, type: 3}
   aRPlaneManager: {fileID: 1624926678}
-  ghostRate: 10
+  ghostRate: 6
   ghostChance: 10
 --- !u!114 &1624926676
 MonoBehaviour:
